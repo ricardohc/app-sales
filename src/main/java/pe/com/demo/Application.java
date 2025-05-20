@@ -12,6 +12,10 @@ public class Application
         oRic.sumar(10, 20);
 
         oRic.resta(10, 30);
+
+
+        ContacMarcos oMarc= new ContacMarcos();
+        System.out.println(oMarc.concatenarMarcos("Mar", "cos"));
     }
 
 

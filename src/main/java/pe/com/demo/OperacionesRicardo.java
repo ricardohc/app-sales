@@ -12,4 +12,9 @@ public class OperacionesRicardo {
         System.out.println("Resta total: "+ (num1-num2));
     }
 
+
+
+    public void sumarMarcos(int num1, int num2) {
+        System.out.println("Suma Marcos total: "+ (num1+num2));
+    }
 }
