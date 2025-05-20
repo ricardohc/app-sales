@@ -10,6 +10,10 @@ public class Application
     {
         OperacionesRicardo oRic=new OperacionesRicardo();
         oRic.sumar(10, 20);
+
+
+        ContacMarcos oMarc= new ContacMarcos();
+        System.out.println(oMarc.concatenarMarcos());
     }
 
 
