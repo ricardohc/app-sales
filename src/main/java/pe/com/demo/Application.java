@@ -10,6 +10,8 @@ public class Application
     {
         OperacionesRicardo oRic=new OperacionesRicardo();
         oRic.sumar(10, 20);
+
+        oRic.resta(10, 30);
     }
 
 
