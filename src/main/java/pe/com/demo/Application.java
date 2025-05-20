@@ -13,7 +13,7 @@ public class Application
 
 
         ContacMarcos oMarc= new ContacMarcos();
-        System.out.println(oMarc.concatenarMarcos());
+        System.out.println(oMarc.concatenarMarcos("Mar", "cos"));
     }
 
 
